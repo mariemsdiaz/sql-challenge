@@ -16,7 +16,7 @@ relationships further with given perimeters.
 
 * After identifying these factors, I created an ERD (Entity Relationship Diagram) using the QuickDataBaseDiagram application. (diagram shown below)
 
-![](./EmployeeSQl/Data_Modeling/QuickDBD-sql-challenge.png)
+![](https://github.com/mariemsdiaz/sql-challenge/blob/main/EmployeeSQL/Data_Modeling/QuickDBD-sql-challenge.png)
 
 ## Data Engineering 
 
